@@ -8,6 +8,12 @@
     "php": ">=5.5",
     "zaius/zaius-php-sdk": "dev-feature/php81-compatibility"
   },
+  "repositories": {
+    "timxsarus": {
+      "type": "vcs",
+      "url": "https://github.com/timxsarus/zaius-php-sdk"
+    }
+  },
   "autoload": {
     "files": [
       "registration.php"
