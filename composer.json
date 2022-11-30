@@ -6,7 +6,7 @@
   "version": "1.0.5-rc.1",
   "require": {
     "php": ">=5.5",
-    "zaius/zaius-php-sdk": "dev-feature/php81"
+    "zaius/zaius-php-sdk": "dev-php81"
   },
   "repositories": {
     "timxsarus": {
